@@ -1,7 +1,7 @@
 # recette_de_ramen_2
 le retour de la soupe ramen
 
-![description](media/téléchargement.jfif)
+![description](Naruto-Ramen-Main.jpg)
 
 ## titre 2 A
 
